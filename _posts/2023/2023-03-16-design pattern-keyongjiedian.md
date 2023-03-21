@@ -25,3 +25,9 @@ https://raw.fastgit.org/freefq/free/master/v2
 
 https://chatbot.theb.ai/#/chat/1002
 
+https://chat2.geekr.dev/
+
+https://chat.livepo.top/
+
+https://chat.moyunav.com/
+
