@@ -21,3 +21,7 @@ https://cdn.jsdelivr.net/gh/oslook/clash-freenode@main/clash.yaml
 
 https://raw.fastgit.org/freefq/free/master/v2
 
+### chatgpt
+
+https://chatbot.theb.ai/#/chat/1002
+
